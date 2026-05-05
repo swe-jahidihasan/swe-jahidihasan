@@ -36,9 +36,9 @@ Currently working on **iBank** — a modern digital banking and wallet solution,
 | Category              | Technologies |
 |-----------------------|-------------|
 | **Mobile**            | Flutter, Dart |
-| **State Management**  | GetX, Provider, Riverpod |
+| **State Management**  | GetX |
 | **Backend**           | Firebase, REST APIs |
-| **Architecture**      | Clean Architecture, MVVM |
+| **Architecture**      | Clean Architecture|
 | **Design & Tools**    | Figma, Postman, Git, GitHub |
 
 ---
