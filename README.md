@@ -48,6 +48,39 @@ I enjoy developing real-world applications with clean, maintainable code and mod
 
 ### 📱 Featured Projects
 
+
+#### 🛒 **Shoply - E-Commerce Application**
+
+A modern e-commerce application with a responsive and user-friendly shopping experience.
+
+**Key Features:**
+
+* Product listing
+* Product details
+* Wishlist
+* Shopping cart
+* Authentication
+* Checkout workflow
+* Responsive UI
+
+**Tech:** Flutter • Dart • GetX • REST APIs
+
+---
+
+#### 🚗 **Uber Clone - Ride-Sharing Application**
+
+A ride-sharing application concept built with Flutter, focusing on location-based features and modern UI.
+
+**Key Features:**
+
+* Location-based UI
+* Map integration
+* Route tracking
+* Authentication
+* Ride workflow
+
+**Tech:** Flutter • Dart • GetX • REST APIs
+
 #### 🏦 **iBank - Digital Banking Application**
 
 A modern digital banking application focused on secure authentication and convenient financial services.
@@ -80,40 +113,6 @@ A modern job search application designed to help users discover and manage job o
 * Profile management
 * Experience, education & skills management
 * Responsive UI
-
-**Tech:** Flutter • Dart • GetX • REST APIs
-
----
-
-#### 🛒 **Shoply - E-Commerce Application**
-
-A modern e-commerce application with a responsive and user-friendly shopping experience.
-
-**Key Features:**
-
-* Product listing
-* Product details
-* Wishlist
-* Shopping cart
-* Authentication
-* Checkout workflow
-* Responsive UI
-
-**Tech:** Flutter • Dart • GetX • REST APIs
-
----
-
-#### 🚗 **Uber Clone - Ride-Sharing Application**
-
-A ride-sharing application concept built with Flutter, focusing on location-based features and modern UI.
-
-**Key Features:**
-
-* Location-based UI
-* Map integration
-* Route tracking
-* Authentication
-* Ride workflow
 
 **Tech:** Flutter • Dart • GetX • REST APIs
 
